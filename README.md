@@ -7,6 +7,6 @@
 
 
 ### About
- Hi there, I'm 24 years old currently living in Brazil (for a while, my goal is to move to another country) and finishing my bachelor's degree at Federal University of Santa Catarina. I'm looking forward to participate in projects related to machine learning and computer vision, so feel free to ask for my participation or help. Also I'm looking for job/internship so if you have any offer contact me in linkedin and I'll be glad to talk to you.
+ Hello there, I'm 24 years old currently living in my *5ht* city (hope the 6th comes soon), finished my bachelor's degree at UFSC last year. I'm looking forward to participate in projects related to ML and computer vision although i'm not that good, so feel free to invite me anytime. Currently learning and working on VUE projects and stoked with it!
 
 
