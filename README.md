@@ -7,6 +7,6 @@
 
 
 ### About
- Hello there, I'm 25 years old currently living in my *5th* city (hope the 6th comes soon), finished my bachelor's degree at UFSC last year. I'm looking forward to participate in projects related to ML and computer vision although i'm not that good, so feel free to invite me anytime. Currently working on JAVA projects and learning VUE/Flutter.
+ Hello there, I'm 25 years old currently living in my *5th* city (hope the 6th comes soon), finished my bachelor's degree at UFSC last year. I'm looking forward to participate in projects related to ML and computer vision although i'm not that good, so feel free to invite me anytime. Currently working on JAVA projects and learning VUE/Clojure.
 
 
